@@ -1,1 +1,3 @@
 git status //get all status
+git reset head commadns.txt //to remove file from area
+git commit -m "add all files" //have no idea what is working for it
